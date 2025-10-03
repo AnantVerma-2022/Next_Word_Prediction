@@ -1,0 +1,16 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+tensorflow
+keras
+opencv-python
+nltk
+emoji
+wordcloud
+spellchecker
+gensim
+spacy
+tqdm
+streamlit
